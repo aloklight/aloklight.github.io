@@ -3,31 +3,31 @@ main:
     url: "/"
     weight: 1
   - name: "About"
-    url: "/about/"
+    url: "/about"
     weight: 2
   - name: "Pricing"
-    url: "/pricing/"
+    url: "/pricing"
     weight: 3
   - name: "Services"
-    url: "/services/"
+    url: "/services"
     weight: 4
   - name: "Contact"
-    url: "/contact/"
+    url: "/contact"
     weight: 5
 
 footer:
   - name: "Privacy Policy"
-    url: "/privacy-policy/"
+    url: "/privacy-policy"
     weight: 6
   - name: "Return & Refund Policy"
-    url: "/return-refund-policy/"
+    url: "/return-refund-policy"
     weight: 7
   - name: "Terms & Conditions"
-    url: "/terms-conditions/"
+    url: "/terms-conditions"
     weight: 8
   - name: "Disclaimer"
-    url: "/disclaimer/"
+    url: "/disclaimer"
     weight: 9
   - name: "Shipping Policy"
-    url: "/shipping-policy/"
+    url: "/shipping-policy"
     weight: 10
