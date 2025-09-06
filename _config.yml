@@ -51,7 +51,7 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed
   - jekyll-github-metadata
-
+  - jekyll-environment-variables
 
 # Exclude from build
 exclude:
@@ -65,5 +65,3 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
-  - CNAME
-  - .DS_Store
