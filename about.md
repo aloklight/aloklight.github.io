@@ -1,87 +1,129 @@
 ---
 title: About
 layout: page
-description: About
+description: Learn more about Postershaala, our mission, and how we empower individuals and businesses with digital posters.
 bodyClass: page-about
 ---
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+# About Postershaala  
+
+At **Postershaala**, we believe in the power of **visual storytelling**.  
+We make it simple for **individuals, businesses, political leaders, and organizations** to create **professional posters** that can be instantly customized and shared across **WhatsApp, Telegram, and social media**.  
+
+From **festival greetings** to **business promotions**, from **daily Panchang** to **Thought of the Day** — Postershaala ensures that you always stay connected with your audience.  
+
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
-# Objectives
+---
 
-Financial accounting and financial reporting are often used as synonyms.
+# Our Objectives  
 
-1. According to International Financial Reporting Standards: the objective of financial reporting is:
-2. To provide financial information that is useful to existing and potential investors, lenders and other creditors in making decisions about providing resources to the reporting entity.
-3. According to the European Accounting Association:
+Our objective is to make **poster creation accessible, fast, and impactful** for everyone.  
 
-## Relevance
-
-Relevance is the capacity of the financial information to influence the decision of its users. The ingredients of relevance are the predictive value and confirmatory value. Materiality is a sub-quality of relevance.
-
-> The ingredients of relevance are the predictive value and confirmatory value.
-
-Information is considered material if its omission or misstatement could influence the economic decisions of users taken on the basis of the financial statements.
-
-## Faithful Representation
-
-Faithful representation means that the actual effects of the transactions shall be properly accounted for and reported in the financial statements. The words and numbers must match what really happened in the transaction. The ingredients of faithful representation are completeness, neutrality and free from error.
-
-## Enhancing Qualitative Characteristics
-
-### Verifiability
-
-Verifiability implies consensus between the different knowledgeable and independent users of financial information. Such information must be supported by sufficient evidence to follow the principle of objectivity.
-
-### Comparability
-
-Comparability is the uniform application of accounting methods across entities in the same industry. The principle of consistency is under comparability. Consistency is the uniform application of accounting across points in time within an entity.
-
-### Understandability
-
-Understandability means that accounting reports should be expressed as clearly as possible and should be understood by those to whom the information is relevant.
-Timeliness: Timeliness implies that financial information must be presented to the users before a decision is to be made.
+1. Provide a **vast, ready-to-use template library** for every occasion.  
+2. Allow **easy customization** with logos, text, images, and brand colors.  
+3. Support **multilingual posters** so communities can connect in their own language.  
+4. Enable **automation** for daily greetings, campaign reminders, and scheduled posts.  
+5. Provide **affordable pricing** starting at just **₹1/day**.  
 
 ---
 
-## Statement of cash flows
+# Relevance  
 
-The statement of cash flows considers the inputs and outputs in concrete cash within a stated period. The general template of a cash flow statement is as follows: Cash Inflow - Cash Outflow + Opening Balance = Closing Balance
+Visual communication is **the fastest way to engage**. Postershaala is **relevant and essential** for:  
 
-| Cash Inflow | Outflow   | Opening Balance |
-| ----------- | --------- | --------------- |
-| _Monday_    | `Tuesday` | **Wednesday**   |
-| 1           | 2         | 3               |
+- **Small Businesses & Shops** – Promote offers & deals quickly.  
+- **Political Leaders & Social Groups** – Stay connected with supporters daily.  
+- **Freelancers & Creators** – Build brand identity with professional posters.  
+- **Individuals** – Celebrate festivals & milestones with personalized greetings.  
 
-**Example 1:** in the beginning of September, Ellen started out with $5 in her bank account. During that same month, Ellen borrowed $20 from Tom. At the end of the month, Ellen bought a pair of shoes for $7. Ellen's cash flow statement for the month of September looks like this:
+---
 
-- Cash inflow: $20
-- Cash outflow:$7
-- Opening balance: $5
-- Closing balance: $20 – $7 + $5 = $18
+# Faithful Representation  
 
-**Example 2:** in the beginning of June, WikiTables, a company that buys and resells tables, sold 2 tables. They'd originally bought the tables for $25 each, and sold them at a price of $50 per table. The first table was paid out in cash however the second one was bought in credit terms. WikiTables' cash flow statement for the month of June looks like this:
+With Postershaala, **what you design is what you get**:  
 
-> **Important:** the cash flow statement only considers the exchange of actual cash, and ignores what the person in question owes or is owed.
+- Professionally crafted templates  
+- Consistency across mobile & desktop  
+- Instant previews before download  
+- Accurate cultural & event-based posters  
 
-## Statement of financial position (balance sheet)
+---
 
-The balance sheet is the financial statement showing a firm's assets, liabilities and equity (capital) at a set point in time, usually the end of the fiscal year reported on the accompanying income statement.
+# Enhancing User Experience  
 
-- **fixed assets**
-  - property
-  - building
-  - equipment (such as factory machinery)
-- **intangible assets**
-  - copyrights
-  - trademarks
-  - patents
-    - pending
-    - international
-- goodwill
+### Verifiability  
+Every poster is **curated, tested, and reviewed** before publishing.  
 
-Owner's equity, sometimes referred to as net assets, is represented differently depending on the type of business ownership. Business ownership can be in the form of a sole proprietorship, partnership, or a corporation. For a corporation, the owner's equity portion usually shows common stock, and retained earnings (earnings kept in the company). Retained earnings come from the retained earnings statement, prepared prior to the balance sheet.
+### Comparability  
+Choose from **hundreds of styles and categories**, compare easily, and pick what fits.  
+
+### Understandability  
+Simple, intuitive UI — even first-time users can design posters in minutes.  
+
+### Timeliness  
+**Daily automation** ensures your greetings, updates, and promotions go live **right on time**.  
+
+---
+
+# Our Vision  
+
+To be the **#1 Digital Poster Platform** that empowers everyone — from individuals to enterprises — to design and share posters with **ease, speed, and impact**.  
+
+---
+
+# Our Mission  
+
+- Simplify design for non-designers.  
+- Provide **affordable digital marketing tools**.  
+- Empower communities with **regional language posters**.  
+- Automate **festival & daily communication**.  
+- Enable **growth for businesses, leaders, and creators**.  
+
+---
+
+# Our Core Values  
+
+- **Simplicity** – Easy to use for all.  
+- **Affordability** – Starting at ₹1/day.  
+- **Accessibility** – Multilingual & cross-platform.  
+- **Innovation** – Smart automation & new features.  
+- **Trust** – Secure, reliable, user-first.  
+
+---
+
+# Our Journey  
+
+Postershaala began with a vision:  
+👉 *“What if anyone could create professional posters in minutes — without design skills?”*  
+
+What started as a **festival greetings tool** has now grown into a **complete poster-making platform** with:  
+
+- Thousands of templates  
+- Automation for Panchang & Thought of the Day  
+- Business branding features (logos, QR codes, contacts)  
+- WhatsApp & Telegram integration  
+
+Today, Postershaala empowers **thousands of users** to share posters daily — from **small-town businesses to large organizations**.  
+
+---
+
+# Why Choose Postershaala?  
+
+✅ **As low as ₹1/day** – Affordable for everyone  
+✅ **Festival-Ready Templates** – Stay ahead with seasonal designs  
+✅ **Business Branding** – Add logo, QR codes, and contacts  
+✅ **Multilingual Support** – Create posters in your local language  
+✅ **Instant Sharing** – Direct to WhatsApp, Telegram, and social media  
+✅ **Automation** – Daily Panchang, Thought of the Day, and scheduled posts  
+✅ **Secure & Reliable** – Enterprise-grade uptime & privacy  
+
+---
+
+# Quick About (for footer / mobile)  
+
+**Postershaala** is a digital poster-making platform that helps you design and share posters for **festivals, business promotions, politics, and events**.  
+With **ready-made templates, automation, multilingual support, and affordable plans starting at ₹1/day**, Postershaala makes poster design **simple, fast, and impactful**.  
+
+✨ *Your design. Your brand. Your story — made easy with Postershaala.*  

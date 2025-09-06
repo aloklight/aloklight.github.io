@@ -1,21 +1,36 @@
 main:
-  - name: "Services"
-    url: "/services/"
+  - name: "Home"
+    url: "/"
+    weight: 1
+  - name: "About"
+    url: "/about/"
     weight: 2
   - name: "Team"
     url: "/team/"
     weight: 3
-  - name: "About"
-    url: "/about/"
+  - name: "Pricing"
+    url: "/pricing/"
+    weight: 3
+  - name: "Services"
+    url: "/services/"
     weight: 4
   - name: "Contact"
     url: "/contact/"
     weight: 5
 
 footer:
-  - name: "Home"
-    url: "/"
-    weight: 1
-  - name: "Contact"
-    url: "/contact/"
-    weight: 2
+  - name: "Privacy Policy"
+    url: "/privacy-policy/"
+    weight: 6
+  - name: "Return & Refund Policy"
+    url: "/return-refund-policy/"
+    weight: 7
+  - name: "Terms & Conditions"
+    url: "/terms-conditions/"
+    weight: 8
+  - name: "Disclaimer"
+    url: "/disclaimer/"
+    weight: 9
+  - name: "Shipping Policy"
+    url: "/shipping-policy/"
+    weight: 10

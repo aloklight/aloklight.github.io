@@ -1,27 +1,45 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Creative Templates",
+    "description": "Choose from thousands of ready-to-use festival, business, and political poster designs.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/posters_templates.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Easy Customization",
+    "description": "Personalize posters instantly with your photo, logo, and text – no design skills needed.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/customization.png",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Instant Download & Share",
+    "description": "Download high-quality posters or share directly on WhatsApp, Facebook, and Instagram.",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/instant_share.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Multilingual Designs",
+    "description": "Access posters in Hindi, English, and regional languages to connect with your audience.",
+    "image": {
+      "url": "images/features/multilingual.png",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Affordable Subscription",
+    "description": "Get unlimited access to premium templates with our low-cost subscription plans.",
+    "image": {
+      "url": "images/features/subscription.png",
       "width": 80,
       "height": 80
     }
