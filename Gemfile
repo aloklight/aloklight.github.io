@@ -1,5 +1,7 @@
 source "https://rubygems.org"
 
+gem "github-pages", "~> 232", group: :jekyll_plugins
+
 gem "jekyll", "3.10.0"
 gem "jekyll-seo-tag", "~> 2.6"
 gem "jekyll-sitemap", "~> 1.4"
