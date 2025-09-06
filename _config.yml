@@ -1,7 +1,13 @@
-baseurl: '/'
-permalink: pretty
-title: 'Postershaala - AI-Powered Content Creation'
+# Site settings
+title: "Postershaala - AI-Powered Content Creation"
+description: "AI-powered poster and content creation platform for politics, business, festivals, and branding."
+url: "https://postershaala.com"   # your custom domain
+baseurl: ""                       # empty since you’re using a custom domain (important!)
 
+# Repository details (for GitHub metadata plugin)
+repository: "aloklight/aloklight.github.io"
+
+# Logo configuration
 logo:
   mobile: "images/logo/logo-mobile.svg"
   mobile_height: "32px"
@@ -10,9 +16,11 @@ logo:
   desktop_height: "32px"
   desktop_width: "120px"
 
+# Homepage settings
 home: 
   limit_services: 6
 
+# Collections
 collections:
   services:
     output: true
@@ -20,6 +28,7 @@ collections:
   team:
     output: true
 
+# Defaults
 defaults:
   - scope:
       path: ""
@@ -32,12 +41,19 @@ defaults:
     values:
       layout: "team"
 
+# Sass settings
 sass:
   style: compressed # possible values: nested expanded compact compressed
 
+# Plugins (GitHub Pages supports only whitelisted plugins)
 plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-github-metadata
   - jekyll-environment-variables
 
+# Exclude from build
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -49,3 +65,5 @@ exclude:
   - LICENSE.md
   - LICENSE
   - README.md
+  - CNAME
+  - .DS_Store
